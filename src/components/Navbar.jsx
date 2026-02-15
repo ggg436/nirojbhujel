@@ -34,7 +34,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <a href="#home" className="navbar-logo">
-        Portfoli<span>o</span>.
+        Niroj Bhujel - Portfolio
       </a>
 
       <div className={`navbar-menu ${menuOpen ? 'active' : ''}`}>
